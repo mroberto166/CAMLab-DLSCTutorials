@@ -1,4 +1,4 @@
-# CAMLab-DLSCTutorial
+# CAMLab-DLSCTutorials
 The repository is a collection of python notebooks and scripts related to the lectures available at https://www.youtube.com/@CAMLabETHZurich/
 
 The scripts are based on Python 3.8 and Jupyter Notrbook.
